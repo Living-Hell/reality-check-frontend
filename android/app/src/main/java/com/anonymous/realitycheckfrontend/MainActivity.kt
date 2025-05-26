@@ -1,4 +1,4 @@
-package com.realitycheckfrontend
+package com.anonymous.realitycheckfrontend
 
 import android.os.Build
 import android.os.Bundle
