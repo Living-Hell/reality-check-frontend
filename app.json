@@ -3,6 +3,8 @@
     "name": "reality-check-frontend",
     "slug": "reality-check-frontend",
     "version": "1.0.0",
+    "scheme": "realitycheck",
+    "platforms": ["ios", "android"],
     "android": {
       "package": "com.anonymous.realitycheckfrontend"
     }
