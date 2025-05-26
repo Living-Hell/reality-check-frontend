@@ -6,7 +6,8 @@
     "scheme": "realitycheck",
     "platforms": ["ios", "android"],
     "android": {
-      "package": "com.anonymous.realitycheckfrontend"
+      "package": "com.anonymous.realitycheckfrontend",
+      "edgeToEdge": true
     }
   }
 }
